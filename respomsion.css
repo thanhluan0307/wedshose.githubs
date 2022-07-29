@@ -1,0 +1,27 @@
+@media screen and (min-width:740px) and (max-width:1024px) {
+    .flip-card {
+        width: 46%;
+        height: 400px;
+    }
+
+}
+@media screen and (max-width: 740px) {
+    .flip-card {
+        width: 80%;
+        height: 490px;
+    }
+    .content-title {
+       
+        text-align: center;
+    }
+    .contaier-footer {
+        display: none;
+    }
+    .end-nav {
+        display: none;
+    }.end button {
+        display: none;
+    }.end {
+        display: none;
+    }
+}
